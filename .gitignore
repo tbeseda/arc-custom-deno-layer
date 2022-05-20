@@ -1,4 +1,4 @@
-.arc-env
+sam.*
 .deno_dir
 .DS_Store
 node_modules
