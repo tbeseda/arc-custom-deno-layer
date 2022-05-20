@@ -6,6 +6,6 @@
     "start": "npx arc sandbox"
   },
   "devDependencies": {
-    "@architect/architect": "latest"
+    "@architect/architect": "10.3.3"
   }
 }
